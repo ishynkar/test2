@@ -3,3 +3,9 @@ body {
 	padding:  0;
 	color:  #000;
 }
+.slider{
+	width: 100%;
+	position: absolute;
+	top: 50px;
+	
+}
